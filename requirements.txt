@@ -1,0 +1,47 @@
+asgiref==3.3.1; python_version >= "3.6"
+beautifulsoup4==4.9.3; python_version >= "3.6" and python_version < "4.0"
+boto3==1.17.20; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.6.0")
+botocore==1.20.20; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.6.0"
+certifi==2020.12.5; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0"
+chardet==3.0.4; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0"
+ciso8601==2.1.3
+coinapi.rest.v1==1.3; python_version >= "3.0"
+cycler==0.10.0; python_version >= "3.6"
+django-bootstrap-datepicker-plus==3.0.5; python_version >= "3"
+django-bootstrap4==2.3.1; python_version >= "3.6" and python_version < "4.0"
+django-fontawesome-5==1.0.18
+django-model-utils==4.1.1
+django-pandas==0.6.4
+django==3.1.6; python_version >= "3.6"
+ftx==1.0.2
+gunicorn==20.0.4; python_version >= "3.4"
+idna==2.10; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0"
+importlib-metadata==2.1.1; python_version >= "3.6" and python_full_version < "3.0.0" and python_version < "3.8" or python_version >= "3.6" and python_version < "3.8" and python_full_version >= "3.5.0"
+jmespath==0.10.0; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.6.0"
+joblib==1.0.1; python_version >= "3.6"
+kiwisolver==1.3.1; python_version >= "3.6"
+kucoin-python==1.0.6
+matplotlib==3.3.4; python_version >= "3.6"
+numpy==1.19.5; python_version >= "3.6"
+pandas==1.1.5; python_full_version >= "3.6.1"
+pillow==8.1.1; python_version >= "3.6"
+plotly==4.14.3
+psycopg2-binary==2.8.6; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.4.0")
+pyparsing==2.4.7; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.3.0" and python_version >= "3.6"
+python-dateutil==2.8.1; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.3.0")
+pytz==2021.1
+requests==2.23.0; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.5.0")
+retrying==1.3.3
+s3transfer==0.3.4; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.6.0"
+satoshi==0.1.3
+schedule==0.6.0
+scikit-learn==0.24.1; python_version >= "3.6"
+scipy==1.6.0; python_version >= "3.7"
+six==1.15.0; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.3.0" and python_version >= "3.6"
+soupsieve==2.2; python_version >= "3.6" and python_version < "4.0"
+sqlparse==0.4.1; python_version >= "3.6"
+threadpoolctl==2.1.0; python_version >= "3.6"
+urllib3==1.25.11; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.6.0" and python_version < "4"
+websockets==8.1; python_full_version >= "3.6.1"
+werkzeug==1.0.1; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.5.0")
+zipp==3.4.0; python_version >= "3.6" and python_full_version < "3.0.0" and python_version < "3.8" or python_version >= "3.6" and python_version < "3.8" and python_full_version >= "3.5.0"
