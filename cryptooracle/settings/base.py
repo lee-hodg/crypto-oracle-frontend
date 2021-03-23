@@ -44,7 +44,8 @@ SECRET_KEY = get_ssm_key('/Django/SecretKey')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['crypto-oracle-frontend.eba-apzc8w3s.us-east-1.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['crypto-oracle-frontend.eba-apzc8w3s.us-east-1.elasticbeanstalk.com',
+                 'crypto.logicon.io']
 
 
 # Application definition
